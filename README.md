@@ -67,6 +67,4 @@ python3 main.py --text-input-only --disable-yolo-pose
 
 ## 작동 영상
 
-<video src="assets/robot_demo.mp4" controls width="640">
-  Your browser does not support the video tag.
-</video>
+[![Demo Video](assets/thumbnail.png)](assets/robot_demo.mp4)
