@@ -64,3 +64,9 @@ python3 main.py --text-input-only --disable-yolo-pose
 4. 로봇 시퀀스: 그리퍼 개방 → 목표 접근(오프셋 적용) → 회전 정렬 → 그리퍼 폐합 → 홈 복귀
 5. 전달지 질문: `person`이면 타겟 자세 이동 후 (옵션) YOLO 포즈 핸드오버, `basket`이면 바구니 자세 이동 후 내려놓고 홈 복귀
 6. 다음 사이클로 복귀
+
+## 🎥 작동 영상
+
+<video src="assets/robot_demo.mp4" controls width="640">
+  Your browser does not support the video tag.
+</video>
