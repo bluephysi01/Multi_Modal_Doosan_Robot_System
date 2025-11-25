@@ -67,4 +67,4 @@ python3 main.py --text-input-only --disable-yolo-pose
 
 ## 작동 영상
 
-[![Demo Video](assets/thumbnail.png)](https://cdn.jsdelivr.net/gh/bluephysi01/Multi_Modal_Doosan_Robot_System@main/assets/robot_demo.mp4)
+[![Demo Video](assets/thumbnail.png)](https://raw.githack.com/bluephysi01/Multi_Modal_Doosan_Robot_System/main/assets/robot_demo.mp4)
