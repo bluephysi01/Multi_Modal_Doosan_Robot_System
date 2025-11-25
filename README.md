@@ -66,3 +66,5 @@ python3 main.py --text-input-only --disable-yolo-pose
 6. 다음 사이클로 복귀
 
 ## 작동 영상
+
+![Demo GIF](assets/robot_demo.gif)
