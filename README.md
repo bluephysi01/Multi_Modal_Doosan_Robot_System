@@ -65,7 +65,7 @@ python3 main.py --text-input-only --disable-yolo-pose
 5. 전달지 질문: `person`이면 타겟 자세 이동 후 (옵션) YOLO 포즈 핸드오버, `basket`이면 바구니 자세 이동 후 내려놓고 홈 복귀
 6. 다음 사이클로 복귀
 
-## 🎥 작동 영상
+## 작동 영상
 
 <video src="assets/robot_demo.mp4" controls width="640">
   Your browser does not support the video tag.
