@@ -66,5 +66,3 @@ python3 main.py --text-input-only --disable-yolo-pose
 6. 다음 사이클로 복귀
 
 ## 작동 영상
-
-[![Demo Video](assets/thumbnail.png)](https://ghproxy.net/https://raw.githubusercontent.com/bluephysi01/Multi_Modal_Doosan_Robot_System/main/assets/robot_demo.mp4)
